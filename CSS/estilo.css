@@ -1,35 +1,27 @@
 body{
-    background-color: lightskyblue;
+  background-color: rgb(0, 0, 0);
 }
 .col{
-    background-color: lightskyblue;
+  background-color: rgb(0, 0, 0);
 }
 .container{
-    margin-top:20px;
-    border-radius: 15px;
+  margin-top:20px;
+  border-radius: 15px;
 }
 .texto{
-    margin-top: 50px;
-    margin-right: 200px;
-    margin-left: 200px;
-    border-style: solid;
-    border-width: 4px;
-    padding: 20px;
-    background-color: aliceblue;
-
+  color: aliceblue;
+  margin-top: 50px;
+  margin-right: 200px;
+  margin-left: 200px;
+  border-style: solid;
+  border-width: 4px;
+  padding: 20px;
+  background-color: rgb(0, 0, 0);
 }
 h1{
-    text-align: center;
-    margin-top: 100px;
-    margin-right: 0px;
-    margin-left: 0px;
+  text-align: center;
+  margin-top: 100px;
+  margin-right: 0px;
+  margin-left: 0px;
 }
-h2{
-    text-align: center;
-    margin-top: 100px;
-    margin-right: 0px;
-    margin-left: 0px;
-     
-    color:rgb(red, green, blue)
 
-    }
