@@ -1,22 +1,24 @@
 body{
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(86, 202, 196);
 }
 .col{
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(86, 202, 196);
 }
 .container{
+  text-align: center;
   margin-top:20px;
   border-radius: 15px;
 }
 .texto{
-  color: aliceblue;
+  text-align: center;
+  color: rgb(0, 0, 0);
   margin-top: 50px;
   margin-right: 200px;
   margin-left: 200px;
   border-style: solid;
   border-width: 4px;
   padding: 20px;
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(86, 202, 196);
 }
 h1{
   text-align: center;
